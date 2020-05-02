@@ -1,0 +1,99 @@
+
+
+
+@media only screen and (max-width: 600px) 
+		{
+		.class2{height: 100%;width: 100%;margin: 0;padding: 0}
+		div > p {font-size: 30px}
+		div + p {font-weight: 900}
+		div ~ p { background-color: yellow;width: 90px}
+		div p { font-family: cursive; }
+		#id1{color: purple}
+		#id2{color: pink}
+		#id3{color:green;}
+		#id4{color:blue;}
+		#id5{height: 360px}
+		.class3{height: 400px}
+		.class4 {float: right;height: 100px;width: 100px;background: violet;margin-top: 100px ;margin-bottom: 50px}
+		.class5 {display: flex; width: 20%;justify-content: space-between;margin-top: 3%;float: left;}
+		.class6 {width:200px;height:15%;background: yellow;border-radius: 5px;text-align: left;font-size: 60px;padding: 0;margin-top: 150px;margin-right: 500px}
+		.class7 {display: grid; width: 10%; height: 100px;grid-template-columns: auto auto;  grid-template-rows: auto auto;grid-gap: 20px;float: bottom; font-size: 10px;margin-top: 300px}
+		.class8 {grid-area: 1 / 1 / 1 / span 2}
+		.class9 {grid-area: 2 / 1 / 2 /  span 2}
+		.class1 {width: 15%;height: 100%;float: left;} 
+	}
+
+
+
+
+
+@media only screen and (min-width: 600px) 
+		{
+		.class2{height: 100%;width: 100%;margin: 0;padding: 0;}
+		div > p {font-size: 30px}
+		div + p {font-weight: 900}
+		div ~ p { background-color: yellow;width: 90px}
+		div p { font-family: cursive; }
+		#id1{color: purple}
+		#id2{color: pink}
+		#id3{color:green;}
+		#id4{color:blue;}
+		#id5{height: 360px}
+		.class3{height: 400px}
+		.class4 {float: right;height: 100px;width: 100px;background: violet;margin-top: 100px ;margin-bottom: 50px}
+		.class5 {display: flex; width: 20%;justify-content: space-between;margin-top: 3%;float: left;}
+		.class6 {width:200px;height:15%;background: yellow;border-radius: 5px;text-align: left;font-size: 60px;padding: 0;margin-top: 150px;margin-right: 500px}
+		.class7 {display: grid; width: 10%; height: 100px;grid-template-columns: auto auto;  grid-template-rows: auto auto;grid-gap: 20px;float: bottom; font-size: 10px;margin-top: 300px}
+		.class8 {grid-area: 1 / 1 / 1 / span 2}
+		.class9 {grid-area: 2 / 1 / 2 /  span 2}
+		.class1 {width: 20%;height: 100%;float: left;} 
+	}
+
+
+
+
+@media only screen and (min-width: 768px) 
+		{
+		.class2{height: 100%;width: 100%;margin: 0;padding: 0}
+		div > p {font-size: 30px}
+		div + p {font-weight: 900}
+		div ~ p { background-color: yellow;width: 90px}
+		div p { font-family: cursive; }
+		#id1{color: purple}
+		#id2{color: pink}
+		#id3{color:green;}
+		#id4{color:blue;}
+		#id5{height: 360px}
+		.class3{height: 400px}
+		.class4 {float: right;height: 100px;width: 100px;background: violet;margin-top: 100px ;margin-bottom: 50px}
+		.class5 {display: flex; width: 20%;justify-content: space-between;margin-top: 3%;float: left;}
+		.class6 {width:200px;height:15%;background: yellow;border-radius: 5px;text-align: left;font-size: 60px;padding: 0;margin-top: 150px;margin-right: 500px}
+		.class7 {display: grid; width: 10%; height: 100px;grid-template-columns: auto auto;  grid-template-rows: auto auto;grid-gap: 20px;float: bottom; font-size: 10px;margin-top: 300px}
+		.class8 {grid-area: 1 / 1 / 1 / span 2}
+		.class9 {grid-area: 2 / 1 / 2 /  span 2}
+		.class1 {width: 25%;height: 100%;float: left;} 
+	}
+
+
+
+		@media only screen and (min-width: 992px) 
+		{
+		.class2{height: 100%;width: 100%;margin: 0;padding: 0}
+		div > p {font-size: 30px}
+		div + p {font-weight: 900}
+		div ~ p { background-color: yellow;width: 90px}
+		div p { font-family: cursive; }
+		#id1{color: purple}
+		#id2{color: pink}
+		#id3{color:green;}
+		#id4{color:blue;}
+		#id5{height: 360px}
+		.class3{height: 400px}
+		.class4 {float: right;height: 100px;width: 100px;background: violet;margin-top: 100px ;margin-bottom: 50px}
+		.class5 {display: flex; width: 20%;justify-content: space-between;margin-top: 3%;float: left;}
+		.class6 {width:200px;height:15%;background: yellow;border-radius: 5px;text-align: left;font-size: 60px;padding: 0;margin-top: 150px;margin-right: 500px}
+		.class7 {display: grid; width: 10%; height: 100px;grid-template-columns: auto auto;  grid-template-rows: auto auto;grid-gap: 20px;float: bottom; font-size: 10px;margin-top: 300px}
+		.class8 {grid-area: 1 / 1 / 1 / span 2}
+		.class9 {grid-area: 2 / 1 / 2 /  span 2}
+		.class1 {width: 30%;height: 100%;float: left;} 
+	}
